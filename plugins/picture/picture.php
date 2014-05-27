@@ -31,17 +31,14 @@ class Picture {
     array(
       'width'      => 1600,
       'height'     => 1600,
-      'breakpoint' => 40
     ),
     array(
       'width'      => 1280,
       'height'     => 1280,
-      'breakpoint' => 40
     ),
     array(
       'width'      => 800,
       'height'     => 800,
-      'breakpoint' => 40
     ),
     array(
       'width'      => 400,
